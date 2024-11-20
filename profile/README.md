@@ -1,4 +1,4 @@
-## The Translation of Technical Documentation  👋
+# The Translation of Technical Documentation  👋
 
 <!--
 
@@ -21,3 +21,21 @@
 
 🧙 请记住，使用 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的力量，您可以做出伟大的事情。
 
+
+## 参与贡献
+
+1. Fork 您要翻译的技术文档仓库
+2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到远程分支 (`git push origin feature/AmazingFeature`)
+5. 打开一个 Pull Request
+6. 等待审核
+7. 审核通过后，合并到主分支
+8. 完成
+
+
+## 资源
+
+- [使用 Git 和 GitHub 的基本操作](/get_started_github.md)
+- [GitHub Markdown 格式语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Git 官方中文文档](https://git-scm.com/book/zh/v2)
