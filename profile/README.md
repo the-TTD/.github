@@ -53,7 +53,7 @@
 
 ## 资源
 
-- [使用 Git 和 GitHub 进行代码管理](/get_started_github.md)
+- [使用 Git 和 GitHub 进行代码管理](https://itnsa.cn/note/teaching-notes-Ansible/Get-Started-Github)
 - [GitHub Markdown 格式语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Git 官方中文文档](https://git-scm.com/book/zh/v2)
 - [中文技术文档写作规范](https://github.com/ruanyf/document-style-guide)
